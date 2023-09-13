@@ -7,6 +7,8 @@ public class zzz {
         String userName = obj.nextLine();
         System.out.print("Your Username is: " + userName);
         obj.close();
+
+        
     }
 }
     
